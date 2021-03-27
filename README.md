@@ -25,9 +25,9 @@ Estimate of time needed to complete: 1 hour and 30 min
 
 Start time: 11:08pm
 
-Finish time: 
+Finish time: 12:13
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 hour and 6 min
 
 
 
@@ -36,11 +36,11 @@ Actual time needed to complete:
 
 Estimate of time needed to complete: 3 hour
 
-Start time: 4:00
+Start time: 10:00am
 
-Finish time: 6:00
+Finish time: 1:00pm
 
-Actual time needed to complete: 2 hour
+Actual time needed to complete: 3 hour
 
 
 
@@ -48,10 +48,10 @@ Actual time needed to complete: 2 hour
 
 **Number and name of feature: Feature #4: Add functionality**
 
-Estimate of time needed to complete: 4 hour
+Estimate of time needed to complete:
 
-Start time: 6:30
+Start time: 
 
-Finish time: 9:45
+Finish time: 
 
-Actual time needed to complete:3 hour and 45 min
+Actual time needed to complete:
